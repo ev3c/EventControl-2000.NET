@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.DAO.dll
+obj\Debug\Interop.MSComCtl2.dll
+obj\Debug\AxInterop.MSComCtl2.dll
+obj\Debug\EventControl.vbproj.ResolveComReference.cache
+obj\Debug\EventControl.frmContraseñaCambiar.resources
+obj\Debug\EventControl.frmContraseñaEntrar.resources
+obj\Debug\EventControl.frmEventControl.resources
+obj\Debug\EventControl.frmEvento.resources
+obj\Debug\EventControl.frmImprimir.resources
+obj\Debug\EventControl.frmInformacion.resources
+obj\Debug\EventControl.frmInternetHistorial.resources
+obj\Debug\EventControl.frmPrograma.resources
+obj\Debug\EventControl.vbproj.GenerateResource.Cache
